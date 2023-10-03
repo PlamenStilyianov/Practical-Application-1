@@ -53,3 +53,5 @@ The goal of this project is to show knowledge of visualizations and probability 
 ### Looking at the case of passengers with kids on the board most accepted coupon is 'Restorand<20', and traveling with Friend(s) most accepted coupon is 'Carry out and Take away' house.
 ### Regarding the age of passabgers, who accepted most of the coupons,  is 26 and (21, 50) age groups.
 Note: the age group 21 is under 21 and the age group 50 is 50 plus, those groups are summary ones.
+
+# Please re-run the jupyter Notebook as you may not see the Plotly graphs, as they are not stored at the raw file.
