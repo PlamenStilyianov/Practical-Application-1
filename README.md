@@ -14,7 +14,7 @@ The goal of this project is to show knowledge of visualizations and probability 
 ###### Attendance rate for drivers 'attending a Bar more than once a month under the age of 30' is 30.11%
 ###### Attendance rate for drivers 'going to cheap restaurants more than 4 times a month and income is less than 50K' is 18.86%
 
-#### Conclusion: 
+#### Conclusions: 
 ###### the drivers going to bars more than once a month, had passengers that were not a kid, and were not widowed have the highest attendance rate of 47.52%
 ###### the drivers without a kid on the board have an attendance rate of 47.52%
 ###### all other drivers go to a bar more than once a month with rate of 64.69%, there is a difference of almost 30%
@@ -49,6 +49,7 @@ The goal of this project is to show knowledge of visualizations and probability 
 
 #### Overall conclusion the ‘Carry out & Take away’ is very popular to drivers at age groups 21, 26 and 50, who travel alone or with friends, and without a kid on the board.
 
-### Overall conclusion for all accepted coupons is 56.8%, mostly rejected coupons are 'Coffee House' and Bar.
-### Looking at the point of passengers with kids on the board most accepted coupon is 'Restorand<20', traveling with Friend(s) most accepted coupon is 'Carry out and Take away' house.
-### Regarding the age of passabgers, who accept most of the coupons, are 21, 26 abd 50 age groups.
+### Overall conclusion for all accepted coupon's rate is 56.8%, mostly rejected coupons are 'Coffee House' and Bar.
+### Looking at the case of passengers with kids on the board most accepted coupon is 'Restorand<20', and traveling with Friend(s) most accepted coupon is 'Carry out and Take away' house.
+### Regarding the age of passabgers, who accepted most of the coupons,  is 26 and (21, 50) age groups.
+Note: the age group 21 is under 21 and the age group 50 is 50 plus, those groups are summary ones.
